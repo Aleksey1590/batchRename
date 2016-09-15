@@ -16,6 +16,7 @@ C://.../A-folder/B-folder/fila_B.txt ---->>>> C://.../A-folder/B-folder/B-folder
 C://.../A-folder/C-folder/fila_1.txt ---->>>> C://.../A-folder/C-folder/C-folder 1.txt
 C://.../A-folder/C-folder/fila_2.txt ---->>>> C://.../A-folder/C-folder/C-folder 2.txt
 ```
+Limitations: 
 
 1. Make sure that in A-folder there are _only_ folders with files inside and there are no folders inside B-folder.  
 2. Program will make a copy of itself. You'll have to remove it manually.
